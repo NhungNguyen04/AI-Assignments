@@ -1,12 +1,11 @@
 # AI Assignments Repository
 
-This repository contains all the assignments for the Artificial Intelligence course. Each assignment is organized in its own folder with the necessary files and instructions.
-
+This repository contains all the assignments for the Artificial Intelligence course.
 ## Assignments
 
 ### Assignment 1
 
-**Title:** DFS/BFS/UCS for Sokoban
+**Title:** DFS/BFS/UCS for Sokoban\n
 **Description:** Develop BFS and UCS function on the Sokoban game.
 
 ### Assignment 2
